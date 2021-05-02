@@ -1,8 +1,8 @@
-# Module 1: Project 2 
+# Module 1: Project 3 
 
-<img src="https://www.tutorialrepublic.com/lib/images/bootstrap-illustration.png" alt="bootstrap5"/>
+<img src="https://miro.medium.com/fit/c/1838/551/1*lX8L6IiGDC0j154R1hIN_Q.png" alt="fontawesomeImage"/>
 
->  Using Bootstrap!
+>  Building a template with Bootstrap and Font Awesome Icons!
 
 ---
 
@@ -17,8 +17,7 @@
 
 ## Description
 
-Creating a webpage with HTML, CSS and the use of a new CSS framework "Bootstrap". Use mainly Bootstrap to to build Project 1 template.
-
+Creating a webpage/ blog post template with Bootstrap. For icons I am using Font Awesome CDN.
 #### Technologies used
 
 - HTML
@@ -27,12 +26,18 @@ Creating a webpage with HTML, CSS and the use of a new CSS framework "Bootstrap"
 
 - Bootstrap (Version 5.0)
 
+- Font Awesome 
+
 
 ---
 
 ## References
 
 - ROOTS Technology- [@rootstechnoology](https://rootstechnology.info/)
+
+- Bootstrap- [@Bootstrap](https://getbootstrap.com/)
+
+- Font Awesome- [@Fontawesome](https://fontawesome.com/)
 
 ---
 
